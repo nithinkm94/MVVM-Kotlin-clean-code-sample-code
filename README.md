@@ -1,6 +1,29 @@
 # MVVM-Kotlin-clean-code-sample-code
 Its purpose being, to quickly demonstrate Android and software development in general and clean code architecture using LiveData, Databinding, MVVM, Dagger2, Retrofit2, Room and much More!
 
+<table bgcolor="#00FF00">
+	<td>
+		<p align="center">
+		<img src="https://github.com/fgagneten/MVVM-Kotlin-clean-code-sample-code/blob/master/screenshots/post-screenshot-01.png?raw=true" alt="" width="250"/>
+		</p>
+	</td>
+	<td>
+		<p align="center">
+		<img src="https://github.com/fgagneten/MVVM-Kotlin-clean-code-sample-code/blob/master/screenshots/post-screenshot-02.png?raw=true" alt="" width="250"/>
+		</p>
+	</td>
+	<td>
+		<p align="center">
+		<img src="https://github.com/fgagneten/MVVM-Kotlin-clean-code-sample-code/blob/master/screenshots/post-screenshot-03.png?raw=true" alt="" width="250"/>
+		</p>
+	</td>
+	<td>
+		<p align="center">
+		<img src="https://github.com/fgagneten/MVVM-Kotlin-clean-code-sample-code/blob/master/screenshots/post-screenshot-04.png?raw=true" alt="" width="250"/>
+		</p>
+	</td>
+</table>
+
 Below is a list of skills that are showcased:
 
 1. Architectural Pattern
