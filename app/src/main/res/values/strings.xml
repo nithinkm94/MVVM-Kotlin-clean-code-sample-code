@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Challenge accepted!</string>
+
+    <string name="related_albums_text">Related posts</string>
+    <string name="search_posts_text">Search  posts</string>
+
+    <string name="favorite_albums_text">Favorite albums</string>
+    <string name="posts_subtile_text">List of Posts</string>
+    <string name="post_removed_text">Post removed from the list.</string>
+    <string name="undo_action">Undo</string>
+    <string name="name_background_header_text">header_background_</string>
+
+    <!-- Error Message -->
+    <string name="error_loading">Could not fetch data!</string>
+    <string name="loader_text">Welcome</string>
+    <string name="error_no_results">No data found!</string>
+
+</resources>
